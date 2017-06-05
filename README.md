@@ -1,2 +1,2 @@
 # js-oop
-js-oop
+js-oop sample
